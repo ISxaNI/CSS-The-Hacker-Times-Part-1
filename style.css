@@ -56,3 +56,35 @@ main img {
     margin: 0 auto;
     box-shadow:  5px 5px 5px 5px #ddd;
 }
+main p {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.1em;
+    padding: 10px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #ddd;
+}
+div section h4 {
+    font-size: 1.5em
+}
+.more-articles {
+    text-align: center;
+    margin: 10px;
+}
+.article1 {
+    width: 45%;
+    display: inline-block;
+}
+.article2 {
+    width: 45%;
+    display: inline-block
+}
+div section img{
+    width: 95%;
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+div section p {
+    padding-left: 40px;
+    padding-right: 30px;
+    font-size: 1.2em;
+}
