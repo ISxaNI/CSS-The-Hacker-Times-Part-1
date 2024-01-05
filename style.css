@@ -35,9 +35,6 @@ a {
 a:hover {
     color: #4a4a4a;
 }
-main {
-
-}
 main h2 {
     font-weight: 900;
     text-align: left;
@@ -51,9 +48,10 @@ main h5 {
     font-size: 1.5em;
 }
 main img {
-    width: 100%;
+    width: 87%;
     margin: 0 auto;
     box-shadow:  5px 5px 5px 5px #ddd;
+    display: block
 }
 main p {
     text-align: left;
