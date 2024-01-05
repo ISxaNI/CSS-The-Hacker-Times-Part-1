@@ -67,6 +67,7 @@ main img {
     display: block
 }
 main p {
+    color: #777;
     text-align: left;
     font-family: 'Source Sans Pro';
     font-size: 1.1em;
@@ -92,4 +93,5 @@ main p {
 }
 .article p {
     font-family: 'Source Sans Pro';
+    color: #777;
 }
